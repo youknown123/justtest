@@ -4,4 +4,7 @@ remote repository
 dev 
 dev 
 dev
-$ cd ..
+insert 1
+111
+1111
+111
