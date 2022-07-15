@@ -1,4 +1,7 @@
 insert somting 
 to push to my first 
 remote repository
+dev 
+dev 
+dev
 $ cd ..
